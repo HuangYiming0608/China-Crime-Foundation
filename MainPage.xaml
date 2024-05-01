@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="China_Crime_Foundation.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+            <Image
+                Source="dotnet_bot.png"
+                HeightRequest="185"
+                Aspect="AspectFit"
+                SemanticProperties.Description="dot net bot in a race car number eight" />
+            <Label
+                Text="€€£(€hina €rime £oundation，中国犯罪学会)，是掌管中国OI的神秘势力，然而它是个狗。"
+                Style="{StaticResource SubHeadline}"
+                SemanticProperties.HeadingLevel="Level2"
+                SemanticProperties.Description="Welcome to dot net Multi platform App U I" />
+
+            <Label
+                Text="€€£历来以一种名叫比赛的产品搜敛钱财，使用NOIP初中组来诈骗有能力的初中生，GESP和CSP来诈骗小学、初中生，NOIP、省选、NOI、NOI冬令营来诈骗高中生，甚至良心IOI都被€€£用以诈骗，可谓是学龄全阶段覆盖诈骗服务。而相比而言，美利坚的USACO,花园城市主办的国际IOI可谓是十分良心了(We don't need any money! Free!)"
+                Style="{StaticResource SubHeadline}"
+                SemanticProperties.HeadingLevel="Level2"
+                SemanticProperties.Description="Welcome to dot net Multi platform App U I" />
+
+            <Label
+                Text="€€£拿到了如此多钱，但可没有给我们福利，出毒瘤（超纲）题，为了更多诈骗而努力，不知害了多少OIer"
+                Style="{StaticResource SubHeadline}"
+                SemanticProperties.HeadingLevel="Level2"
+                SemanticProperties.Description="Welcome to dot net Multi platform App U I" />
+
+            <Button
+                x:Name="CounterBtn"
+                Text="Click me" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="OnCounterClicked"
+                HorizontalOptions="Fill" />
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
