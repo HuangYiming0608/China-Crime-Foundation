@@ -1,3 +1,4 @@
+# 文案
 [€€£(€hina €rime £oundation，中国犯罪学会)](https://www.ccf.org.cn/)，是掌管中国OI的神秘势力，然而它是个狗。
 
 ------------
@@ -27,3 +28,11 @@
 [€€£](https://www.ccf.org.cn/)，大\*\*！
 
 [€€£](https://www.ccf.org.cn/)，反革命！
+
+# 用途
+
+辱骂[€€£](https://www.ccf.org.cn/)！
+
+# 用法
+
+见[Wiki](https://github.com/HuangYiming0608/China-Crime-Foundation/wiki)
