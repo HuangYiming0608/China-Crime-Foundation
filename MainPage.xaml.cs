@@ -3,6 +3,7 @@
     public partial class MainPage : ContentPage
     {
         int count = 0;
+        const int sum=8;
         string[] arr = { "€€£，毒瘤！", "€€£，狗！", "€€£，狗屎！", "€€£，狗屎都不如！", "€€£,f**k you!", "去**的€€£！", "€€£，大**！", "€€£，反革命！" };
         public MainPage()
         {
@@ -13,7 +14,7 @@
         {
             count++;
 
-            CounterBtn.Text = arr[count%8];
+            CounterBtn.Text = arr[count%sum];
 
             SemanticScreenReader.Announce(CounterBtn.Text);
         }
