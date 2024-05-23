@@ -33,6 +33,10 @@
 
 辱骂[€€£](https://www.ccf.org.cn/)！
 
+我的洛谷提交，这个项目耗尽了我许多时间，减少了我的刷题数量，[€€£](https://www.ccf.org.cn/)害人不浅啊！
+
+![](https://api.jerryz.com.cn/practice?id=793689&dark_mode=true&card_width=750)
+
 # 用法
 
 见[Wiki](https://github.com/HuangYiming0608/China-Crime-Foundation/wiki)
