@@ -3,15 +3,11 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="China_Crime_Foundation.MainPage">
 
+
     <ScrollView>
         <VerticalStackLayout
             Padding="30,0"
             Spacing="25">
-            <Image
-                Source="dotnet_bot.png"
-                HeightRequest="185"
-                Aspect="AspectFit"
-                SemanticProperties.Description="dot net bot in a race car number eight" />
             <Label
                 Text="€€£(€hina €rime £oundation，中国犯罪学会)，是掌管中国OI的神秘势力，然而它是个狗。"
                 Style="{StaticResource SubHeadline}"
@@ -35,6 +31,8 @@
                 Text="€€£，毒瘤！" 
                 SemanticProperties.Hint="Counts the number of times you click"
                 Clicked="OnCounterClicked"
+                BackgroundColor="Black"
+                TextColor="White"
                 HorizontalOptions="Fill" />
         </VerticalStackLayout>
     </ScrollView>

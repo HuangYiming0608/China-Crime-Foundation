@@ -8,7 +8,7 @@
     Title="China_Crime_Foundation">
 
     <ShellContent
-        Title="Home"
+        Title=""
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
 
