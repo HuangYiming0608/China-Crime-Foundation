@@ -29,6 +29,10 @@
 
 [€€£](https://www.ccf.org.cn/)，反革命！
 
+---
+
+[洛谷](https://www.luogu.com.cn/article/pr35yr7m)
+
 # 用途
 
 辱骂[€€£](https://www.ccf.org.cn/)！
