@@ -28,7 +28,7 @@
 
             <Button
                 x:Name="CounterBtn"
-                Text="€€£，毒瘤！" 
+                Text="点我辱骂€€£" 
                 SemanticProperties.Hint="Counts the number of times you click"
                 Clicked="OnCounterClicked"
                 BackgroundColor="Black"
