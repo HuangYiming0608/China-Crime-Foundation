@@ -31,7 +31,7 @@
                 Text="点我辱骂€€£" 
                 SemanticProperties.Hint="Counts the number of times you click"
                 Clicked="OnCounterClicked"
-                BackgroundColor="Black"
+                BackgroundColor="Blue"
                 TextColor="White"
                 HorizontalOptions="Fill" />
         </VerticalStackLayout>

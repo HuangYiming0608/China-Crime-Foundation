@@ -85,7 +85,6 @@
 
 	<ItemGroup>
 		<!-- App Icon -->
-    		<MauiIcon Include="Resources\AppIcon\appicon.png" Resize="false" />
 		<!-- Splash Screen -->
 		<MauiSplashScreen Include="Resources\Splash\splash.svg" Color="#512BD4" BaseSize="128,128" />
 
@@ -114,10 +113,6 @@
 	    <PackagePath>\</PackagePath>
 	  </None>
 	  <None Update="README.md">
-	    <Pack>True</Pack>
-	    <PackagePath>\</PackagePath>
-	  </None>
-	  <None Update="Resources\AppIcon\appicon.png">
 	    <Pack>True</Pack>
 	    <PackagePath>\</PackagePath>
 	  </None>
