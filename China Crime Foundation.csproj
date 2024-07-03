@@ -45,7 +45,7 @@
 		<AppInstallerUri>C:\Users\you06\Documents</AppInstallerUri>
 		<HoursBetweenUpdateChecks>0</HoursBetweenUpdateChecks>
 		<PackageCertificateThumbprint>C7E7EF351B4FCF4863A9ACE6F6D451F49300EF6B</PackageCertificateThumbprint>
-		<PackageIcon>AppIcon.png</PackageIcon>
+		<PackageIcon>AppIcon.svg</PackageIcon>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
 		<PackageLicenseFile>LICENSE</PackageLicenseFile>
 		<PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
